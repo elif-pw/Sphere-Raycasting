@@ -1,0 +1,13 @@
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\bin\Debug\spehereRaycasting.exe.config
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\bin\Debug\spehereRaycasting.exe
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\bin\Debug\spehereRaycasting.pdb
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\bin\Debug\MathNet.Numerics.dll
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\bin\Debug\MathNet.Numerics.xml
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\obj\Debug\spehereRaycasting.csprojAssemblyReference.cache
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\obj\Debug\spehereRaycasting.Properties.Resources.resources
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\obj\Debug\spehereRaycasting.csproj.GenerateResource.cache
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\obj\Debug\spehereRaycasting.csproj.CoreCompileInputs.cache
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\obj\Debug\spehereRaycasting.csproj.CopyComplete
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\obj\Debug\spehereRaycasting.exe
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\obj\Debug\spehereRaycasting.pdb
+C:\Users\Elif\source\repos\spehereRaycasting\spehereRaycasting\obj\Debug\spehereRaycasting.Form1.resources
